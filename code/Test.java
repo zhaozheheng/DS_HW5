@@ -1,5 +1,3 @@
-package zzh;
-
 class Edge{	//edge class
 	public int sVert;
 	public int eVert;
